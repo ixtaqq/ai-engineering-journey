@@ -1,6 +1,6 @@
 ---
 title: Hello, World
-date: 2026-07-13
+date: "2026-07-13"
 excerpt: First post — kicking off the AI engineering journey.
 ---
 
